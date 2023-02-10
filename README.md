@@ -11,6 +11,6 @@
 |<img width="1604" alt="Subrat" src="https://user-images.githubusercontent.com/124935634/218187598-d4a6b42b-c6af-4839-a1e2-64b7db040749.jpg">  |  <img width="1604" alt="Khar" src="https://user-images.githubusercontent.com/124935634/218187733-0c3fcbc9-2cbe-44d5-a7a6-df045f23a3ae.jpg">|<img width="1604" alt="Shizuka" src="https://user-images.githubusercontent.com/124935634/218187780-74f79bed-94cf-4590-bba3-2e4b6e982b20.jpg">|
 
 | | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
+|:-------------------------:|:-------------------------:|
 |<img width="1604" alt="Kieran" src="https://user-images.githubusercontent.com/124935634/218187862-81fd9fd0-f0f3-4c8c-8c8b-19a568b34cc2.jpg">|<img width="1604" alt="Ahad" src="https://user-images.githubusercontent.com/124935634/218187912-689fe354-54a0-4574-9199-1cef5e774927.jpg">|
 
